@@ -1,2 +1,3 @@
 name: Haitai
-markdown: kramdown
+markdown: kramdow
+permalink: /blog/:year/:month/:day/:title
