@@ -11,7 +11,7 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 40px;
-    font-size: 2em
+    font-size: 10em
 }
 a {
     text-decoration: none;
@@ -29,8 +29,8 @@ h2 {
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }	
 p {
-    font-size: 2em;
-    line-height: 2em;
+    font-size: 1.5em;
+    line-height: 1.4em;
     color: #333;
 }
 footer {
