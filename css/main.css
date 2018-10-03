@@ -41,7 +41,9 @@ footer {
 ul li{
     font-size: 2em; 
 }
-
+free-text{
+    font-size: 2em; 
+}
 
 ul.posts { 
     margin: 20px auto 40px; 
